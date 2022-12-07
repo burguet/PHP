@@ -34,7 +34,7 @@
         }
         if($delta<0)
         {
-            echo "delta est inférieur a 0 de se fait il n'y a pas de solution";
+            echo "<p>delta est inférieur a 0 de se fait il n'y a pas de solution</p>";
         }
     
     ?>
