@@ -12,7 +12,7 @@
         $b= rand (-100,100);
         $c= rand (-100,100);
         $delta=$b**2-4*$a*$c; 
-        echo "<p>l'équation de second degre a résoudre est".$a."x²".$b."x+".$c."=0 </p>";
+        echo "<p>l'équation de second degre a résoudre est".$a."x²".$b."x".$c."=0 </p>";
 
         echo "<p> Donc A=".$a." B= ".$b." c= ".$c."</p>";
 
